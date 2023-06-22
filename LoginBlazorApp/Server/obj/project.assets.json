@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Blazored.SessionStorage/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.1"
+        },
+        "compile": {
+          "lib/net7.0/Blazored.SessionStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/Blazored.SessionStorage.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/7.0.7": {
         "type": "package",
         "dependencies": {
@@ -41,6 +53,23 @@
         "type": "package",
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.Authorization/7.0.5": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "7.0.5",
+          "Microsoft.AspNetCore.Components": "7.0.5"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.AspNetCore.Components.Forms/7.0.7": {
@@ -493,7 +522,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Blazored.SessionStorage": "2.3.0",
           "LoginBlazorApp.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Components.Authorization": "7.0.5",
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.7"
         },
         "compile": {
@@ -516,6 +547,20 @@
     }
   },
   "libraries": {
+    "Blazored.SessionStorage/2.3.0": {
+      "sha512": "mHKG7M5eTlnaZ7LODcApGcUEds9xozU9Af/NIMTiEEsSV9Efsu41zua+zYx/LVDdtVKcSyKP5MzD2z/TNjmNFw==",
+      "type": "package",
+      "path": "blazored.sessionstorage/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazored.sessionstorage.2.3.0.nupkg.sha512",
+        "blazored.sessionstorage.nuspec",
+        "icon.png",
+        "lib/net6.0/Blazored.SessionStorage.dll",
+        "lib/net7.0/Blazored.SessionStorage.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/7.0.7": {
       "sha512": "1w7+mJU4atTeHqd2P53WrAsSnifm/YV8/nDWL16QyfGRTQiyezvQKMbM3qof9QPGeqMfjQPbaphaIYDSqYPAig==",
       "type": "package",
@@ -564,6 +609,21 @@
         "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
         "microsoft.aspnetcore.components.analyzers.7.0.7.nupkg.sha512",
         "microsoft.aspnetcore.components.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Components.Authorization/7.0.5": {
+      "sha512": "PoZ96emiHObTuJpfvOcFR1dIE6yA1oIGZM6HJXYJZR+vT/Pi12iYFJOT1Z4F+CdWUT0WqaW0rNw20VoDvPM+9Q==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.components.authorization/7.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.txt",
+        "lib/net7.0/Microsoft.AspNetCore.Components.Authorization.dll",
+        "lib/net7.0/Microsoft.AspNetCore.Components.Authorization.xml",
+        "microsoft.aspnetcore.components.authorization.7.0.5.nupkg.sha512",
+        "microsoft.aspnetcore.components.authorization.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Components.Forms/7.0.7": {

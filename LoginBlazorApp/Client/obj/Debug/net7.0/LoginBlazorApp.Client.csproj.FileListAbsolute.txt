@@ -1,0 +1,6 @@
+C:\Users\Diego Mogollon\Documents\Diego\Documentos\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\BLAZOR\LoginBlazorApp\LoginBlazorApp\Client\obj\Debug\net7.0\LoginBlazorApp.Client.csproj.AssemblyReference.cache
+C:\Users\Diego Mogollon\Documents\Diego\Documentos\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\BLAZOR\LoginBlazorApp\LoginBlazorApp\Client\obj\Debug\net7.0\LoginBlazorApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Mogollon\Documents\Diego\Documentos\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\BLAZOR\LoginBlazorApp\LoginBlazorApp\Client\obj\Debug\net7.0\LoginBlazorApp.Client.AssemblyInfoInputs.cache
+C:\Users\Diego Mogollon\Documents\Diego\Documentos\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\BLAZOR\LoginBlazorApp\LoginBlazorApp\Client\obj\Debug\net7.0\LoginBlazorApp.Client.AssemblyInfo.cs
+C:\Users\Diego Mogollon\Documents\Diego\Documentos\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\BLAZOR\LoginBlazorApp\LoginBlazorApp\Client\obj\Debug\net7.0\LoginBlazorApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Diego Mogollon\Documents\Diego\Documentos\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\BLAZOR\LoginBlazorApp\LoginBlazorApp\Client\obj\Debug\net7.0\LoginBlazorApp.Client.MvcApplicationPartsAssemblyInfo.cache

@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nTEUWrnbXCnfAG1mIPvhSqCF2RG50szcVbs5rk1hqlcCPGV2NLgPZrQLXeiNq7rvUDfXGLsMEmVNA/rmfE3Sbg==",
+  "dgSpecHash": "pS0fm8+7EFvrJJcBIbmpgacvABhSxIbJZCD2nDDNCrds77fT64XiUW5sG91/9RtZNab5urPlVOTwZip7FRsrDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diego Mogollon\\Documents\\Diego\\Documentos\\CARPETA DE ESTUDIOS SOFTWARE DEVELOPER\\BLAZOR\\LoginBlazorApp\\LoginBlazorApp\\Client\\LoginBlazorApp.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Diego Mogollon\\.nuget\\packages\\blazored.sessionstorage\\2.3.0\\blazored.sessionstorage.2.3.0.nupkg.sha512",
     "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.7\\microsoft.aspnetcore.authorization.7.0.7.nupkg.sha512",
     "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.7\\microsoft.aspnetcore.components.7.0.7.nupkg.sha512",
     "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.7\\microsoft.aspnetcore.components.analyzers.7.0.7.nupkg.sha512",
+    "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.5\\microsoft.aspnetcore.components.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.7\\microsoft.aspnetcore.components.forms.7.0.7.nupkg.sha512",
     "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.7\\microsoft.aspnetcore.components.web.7.0.7.nupkg.sha512",
     "C:\\Users\\Diego Mogollon\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.7\\microsoft.aspnetcore.components.webassembly.7.0.7.nupkg.sha512",
